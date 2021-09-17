@@ -64,7 +64,7 @@ The easy way to host this bot, deploy to Heroku
 - `curl -sL https://deb.nodesource.com/setup_16.x | bash -`
 - `sudo apt-get install -y nodejs`
 - `npm i -g npm`
-- `git clone https://github.com/KennedyProject/KennedyXMusic` # Clone your repo.
+- `git clone https://github.com/zaenproject/KennedyXMusic` # Clone your repo.
 - `cd KennedyXMusic`
 - `pip3 install -U -r requirements.txt`
 - `cp example.env .env` #Use vim to edit ENVs
@@ -72,9 +72,9 @@ The easy way to host this bot, deploy to Heroku
 - `python3 main.py` # Run the bot
 
 ### Credits 🕊️
-- [Kennedy](https://github.com/KennedyProject) Developer
+- [Zaen](https://github.com/KennedyProject) Developer
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [Levina](https://github.com/levina-lab) Veez Project
+- [Zaen](https://github.com/Zaen_userbot)Zaen_userbot
 
 ### Support & Updates 🛵
-<a href="https://t.me/kenbotsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KennedyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Zaen_userbot"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KennedyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
